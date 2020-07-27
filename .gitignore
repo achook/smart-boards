@@ -84,3 +84,7 @@ Temporary Items
 .apdisk
 
 # End of https://www.toptal.com/developers/gitignore/api/eagle,macos
+
+# Gerber files
+.zip
+.CFG
