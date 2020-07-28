@@ -19770,7 +19770,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 </class>
 <class number="1" name="power" width="0.3048" drill="0">
 </class>
-<class number="2" name="high" width="2.54" drill="0">
+<class number="2" name="high" width="25.4" drill="0">
 <clearance class="2" value="0.762"/>
 </class>
 <class number="3" name="sig" width="0.254" drill="0">
